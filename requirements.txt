@@ -1,0 +1,16 @@
+# Python 3.12+. Giữ phiên bản đã dùng để tải mô hình joblib.
+streamlit==1.67.0
+catboost==1.2.10
+scikit-learn==1.9.1
+pandas==3.0.1
+numpy==2.3.5
+joblib==1.6.0
+
+# Cào dữ liệu và chạy notebook EDA.
+requests==2.34.2
+beautifulsoup4==4.15.0
+lxml==6.1.1
+matplotlib==3.11.2
+seaborn==0.13.2
+ipykernel
+tzdata
